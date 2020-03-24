@@ -1,3 +1,3 @@
-# cascading-faiulure
+# Matlab code on cascading-faiulure of power systems 
 
-We provide matlab code on the DC power flow model of cascading failures and the identification algorithm based on JFNK methods. 
+matlab code on the DC power flow model of cascading failures and the identification algorithm based on JFNK methods. 
